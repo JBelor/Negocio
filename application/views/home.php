@@ -145,11 +145,11 @@
   </div>
   <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
+    <span class="sr-only">Retroceder</span>
   </a>
   <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
+    <span class="sr-only">Siguiente</span>
   </a>
 </div>
 <!-- Fin del carrusel -->
@@ -157,7 +157,7 @@
 			<nav>
 				<ul class="pagination">
 					<li class="page-item">
-						<a class="page-link" href="#">Previous</a>
+						<a class="page-link" href="#">Anterior</a>
 					</li>
 					<li class="page-item">
 						<a class="page-link" value="1" href="paginacion">1</a>
@@ -175,7 +175,7 @@
 						<a class="page-link" href="#">5</a>
 					</li>
 					<li class="page-item">
-						<a class="page-link" href="#">Next</a>
+						<a class="page-link" href="#">Siguiente</a>
 					</li>
 				</ul>
 			</nav>
